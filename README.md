@@ -3,6 +3,6 @@ The Behavioral Risk Factor Surveillance System (BRFSS) compiled a list for risk 
 
 In this repository we have five folders: data, data_preprocess, deliverables, postattribute_selection, and traintest_sets.
 
-data, traintest_sets, & data_preprocess: this holds all the data we used and the files we used to preprocess our data e.g. Alzh_no_na.csv and Alzh_val.csv
-deliverables: here is our paper and presentation both in PDF and powerpoint form
-postattribute_selection: finally this folder contains our attribute selection models taken from weka
+1. data, traintest_sets, & data_preprocess: this holds all the data we used and the files we used to preprocess our data e.g. Alzh_no_na.csv and Alzh_val.csv
+2. deliverables: here is our paper and presentation both in PDF and powerpoint form
+3. postattribute_selection: finally this folder contains our attribute selection models taken from weka
